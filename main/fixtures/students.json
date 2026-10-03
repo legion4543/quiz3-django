@@ -1,0 +1,35 @@
+[
+  {
+    "model": "main.student",
+    "pk": 1,
+    "fields": {
+      "first_name": "Jhonrey",
+      "last_name": "Legion",
+      "email": "jhonreylegion@gmail.com",
+      "course": "BSIT",
+      "year_level": 3
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 2,
+    "fields": {
+      "first_name": "JR",
+      "last_name": "Legion",
+      "email": "jrlegion@gmail.com",
+      "course": "BSIT",
+      "year_level": 3
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 3,
+    "fields": {
+      "first_name": "Jhon Rey",
+      "last_name": "Legion",
+      "email": "legionjhonrey4543@gmail.com",
+      "course": "BSIT",
+      "year_level": 3
+    }
+  }
+]
